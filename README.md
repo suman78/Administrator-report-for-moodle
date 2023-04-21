@@ -7,7 +7,7 @@ Moodle is highly customizable, and users can create their own themes, plugins, a
 One of the key benefits of Moodle is that it is an open-source platform, meaning that the code is freely available for anyone to use, modify, and distribute. This has led to a large and active community of developers who have created a wide range of plugins and extensions to enhance Moodle's capabilities.
 
 
-##To download Moodle, you can follow these steps:
+ #To download Moodle, you can follow these steps:
 
 Go to the Moodle website at https://moodle.org/ and click on the "Download" button located at the top right corner of the screen.
 
